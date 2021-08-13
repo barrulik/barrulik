@@ -10,7 +10,7 @@
 
 
 ### What am i gonna do in the future:
- - Learn how to make better looking readme files 🙄
+ - Learn how to make better readme files 🙄
  - Games.
  - Make the next optifine (minecraft utility mod).
  - I have no idea.
