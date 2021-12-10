@@ -2,16 +2,15 @@
  - My name is Bar and im 16 years old.
  - I love programing in javascript, java😊.
 
-### What programs do i make:
- - Discord bots, if u ask nicely i might make you one for free (no joke).
+### What sort of programs do i make:
+ - Discord bots, if u ask nicely, most likely that I will make you one for free.
  - Minecraft mods.
+ - Games.
 
 
 ### What am i gonna do in the future:
- - Learn how to make better readme files 🙄
- - Games.
+ - Learn how to make better readme files 🙄.
  - Make the next optifine (minecraft utility mod).
- - I have no idea.
 
 
 # contact me:
