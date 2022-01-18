@@ -1,18 +1,27 @@
-# About me:
+## General info about me:
  - My name is Bar and im 16 years old.
- - I love programing in javascript, java😊.
+ - My favorite programming language is javascript.
 
-### What sort of programs do i make:
+### Things I have learnt to make:
  - Discord bots, if u ask nicely, most likely that I will make you one for free.
+ - Telegram bots.
+ - Minecraft bots.
+ - Websites.
  - Minecraft mods.
  - Games.
 
+### What am I going to learn in the future:
+ - Doc, its time to fire up the time mechine.
 
-### What am i gonna do in the future:
- - Learn how to make better readme files 🙄.
- - Make the next optifine (minecraft utility mod).
+### The programing languages I'm familiar with:
+ - Javascript
+ - Java
+ - Python
+ - Html/Css
+ - Kotlin
+ - C#
+ - C++
 
-
-# contact me:
+## Contact me:
  - Discord: BarrulikDev#0925
  - Mail: barrulik@gmail.com
