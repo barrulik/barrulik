@@ -28,6 +28,5 @@
 
 #
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barrulik&theme=dark)
 ![Stats bby](https://github-readme-stats.vercel.app/api?username=barrulik&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barrulik&layout=compact&theme=dark)
