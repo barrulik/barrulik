@@ -25,9 +25,7 @@
 ## Contact me:
  - Discord: BarrulikDev#0925
  - Mail: barrulik@gmail.com
-
 #
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barrulik&theme=dark)
 ![Stats bby](https://github-readme-stats.vercel.app/api?username=barrulik&theme=dark)
 ![Profile Views](https://komarev.com/ghpvc/?username=barrulik)
