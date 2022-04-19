@@ -4,11 +4,12 @@
  - My name is Bar and im 16 years old.
  - My favorite programming language is javascript.
 
-### Things I have learnt to make:
+### Things that I know how to program:
  - Discord bots, if u ask nicely, most likely that I will make you one for free.
  - Telegram bots.
  - Minecraft bots.
  - Websites.
+ - Minecraft hack clients.
  - Minecraft mods.
  - Games.
 
