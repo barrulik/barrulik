@@ -1,7 +1,7 @@
 <a href='https://ko-fi.com/barrulik' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Donate me' />
  
 ## General info about me:
- - My name is Bar and im 16 years old.
+ - My name is Bar and im 17 years old.
  - My favorite programming language is javascript.
 
 ### Things that I know how to program:
