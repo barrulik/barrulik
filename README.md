@@ -26,7 +26,7 @@
  - C++
 
 ## I use arch btw
-![I use arch btw](https://gcdnb.pbrd.co/images/1nQrx5T5bnNy.png?o=1)
+![I use arch btw](./archbtw.png)
  
 ## Donate me:
 <a href="https://www.paypal.com/donate/?hosted_button_id=JLDW7ZZX32SLN">
