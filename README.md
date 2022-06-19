@@ -2,7 +2,7 @@
  
 ## General info about me:
  - My name is Bar and im 17 years old.
- - My favorite programming language is javascript.
+ - My favorite programming language is java.
 
 ### Things that I know how to program:
  - Discord bots, if u ask nicely, most likely that I will make you one for free.
