@@ -35,7 +35,7 @@
 
 
 ## Contact me:
- - Discord: Barrulik#6434
+ - Discord: Barrulik
  - Mail: barrulik@gmail.com
 #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barrulik&theme=dark)
